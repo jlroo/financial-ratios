@@ -1,0 +1,51 @@
+factor,label
+Tax rate,a_1
+R&D cost ratio,a_2
+Cost of sales to total operating expense,a_3
+Depreciation and amortization to total operating expense,a_4
+Depreciation and amortization to sales,a_5
+Inventories to total capital,a_6
+Degree of asset depreciation,a_7
+Capex to depreciation and amortization,a_8
+Capex to sales,a_9
+EBIT margin,a_10
+EBITDA/ Sales,a_11
+Gross profit margin,a_12
+Return on total capital,a_13
+Return on equity,a_14
+Return on average total assets,a_15
+Return on capital employed (ROCE),a_16
+Return on investment (ROI),a_17
+Return on sales,a_18
+Cash flow margin,a_19
+Working capital to sales,a_20
+Sales to inventory,a_21
+PPE to sales,a_22
+Fixed asset turnover,a_23
+Current asset turnover,a_24
+Total asset turnover,a_25
+Receivables turnover,a_26
+Days sales outstanding (DSO),a_27
+Days payables outstanding,a_28
+Inventory turnover,a_29
+Capital turnover,a_30
+Equity ratio,a_31
+Total liabilities to total capital (leverage),a_32
+Toral liabilities to total equity (gearing),a_33
+Leverage structure,a_34
+Dynamic gearing,a_35
+Quick ratio,a_36
+Current ratio,a_37
+Asset structure,a_38
+Asset intensity,a_39
+Total current assets to total assets,a_40
+Financial strength,a_41
+Reinvestment rate (II),a_42
+Depreciation rate,a_43
+Non-current assets to total stockholders' equity,a_44
+Golden financing rule,a_45
+Equity to assets ratio,a_46
+Current liabilities to sales,a_47
+Accounts receivable to current liabilities,a_48
+Operating income to current liabilities,a_49
+Interest coverage,a_50
